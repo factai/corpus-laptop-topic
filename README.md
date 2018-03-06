@@ -1,6 +1,6 @@
 # Aggregated text corpus of laptop expert reviews with annotated topics
 
-The corpus contains aggregated sentences from expert reviews in the laptop domain. The sequence of the sentences are kept in the same oder as appearing in review articles.
+The corpus contains aggregated sentences from expert reviews in the laptop domain. The sequence of the sentences are kept in the same order as appearing in review articles.
 
 ## Dataset statistics
 
